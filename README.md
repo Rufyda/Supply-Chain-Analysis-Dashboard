@@ -99,3 +99,5 @@ We complement each other’s skills, cover gaps, and push each other to grow �
 
 - **Power BI Desktop** – for visualization and dashboard design 
 - **Excel** – for data cleaning and preprocessing
+- **Figma** – UX Design 
+
