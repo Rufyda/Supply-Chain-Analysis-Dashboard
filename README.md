@@ -1,4 +1,7 @@
 ## 📊 Project Overview 
+
+<img width="1289" height="921" alt="Image" src="https://github.com/user-attachments/assets/d9f75c7e-26fc-4182-a59e-9d49fe49da3e" />
+
 This repository presents a **comprehensive analysis of the supply chain** using **Power BI Desktop**. 
 The main goal is to monitor **Key Performance Indicators (KPIs)** and evaluate the performance of **products, logistics, and suppliers**. 
 The report is designed to make data exploration easy, allowing users to understand key factors affecting operational efficiency and profitability.
@@ -6,6 +9,8 @@ The report is designed to make data exploration easy, allowing users to understa
 ---
 
 ## 🧾 Key Performance Indicators (KPIs)
+<img width="1692" height="951" alt="Image" src="https://github.com/user-attachments/assets/b24506c4-f014-4547-8bd5-a9ddf749b5e0" />
+<img width="1681" height="956" alt="Image" src="https://github.com/user-attachments/assets/fa7ff615-ac56-44bb-9275-a147839c2c8b" />
 
 | Metric | Value |
 | :--- | :--- |
@@ -21,6 +26,7 @@ The report is designed to make data exploration easy, allowing users to understa
 ## 🔍 Detailed Analysis
 
 ### 1. Product Type Analysis 
+<img width="1686" height="953" alt="Image" src="https://github.com/user-attachments/assets/594be178-ae66-457e-b53b-8d08b445b599" />
 The report highlights variations in **revenue**, **defect rates**, and **profit margins** across different product categories.
 
 | Product Type | Total Revenue | Avg. Defect Rate % | Avg. Profit Margin % |
@@ -47,7 +53,7 @@ The report highlights variations in **revenue**, **defect rates**, and **profit 
 ---
 
 ### 3. Supplier Performance 
-
+<img width="1680" height="957" alt="Image" src="https://github.com/user-attachments/assets/e0120008-52a1-48d9-a1ad-0d302b05e2e5" />
 Supplier performance was evaluated based on **profit margin** and **stock level**: 
 - **Supplier 3** achieved the highest profit margin (**91.08%**) 
 - **Supplier 1** holds the highest stock level (**1,142 units**) 
@@ -77,11 +83,13 @@ The report also includes a detailed **SKU-level analysis**, covering:
 ---
 
 ## 👩‍💻 Team Members 
- 
+
 - [Esraa Kamal](https://www.linkedin.com/in/esraakamal) 
 - [Nabha Ahmed](https://www.linkedin.com/in/nabha-ahmed-166491221/) 
 - [Rufyda Rahma](https://www.linkedin.com/in/rufyda-abdelhadirahma/) 
 - [Marwa Khalil](https://www.linkedin.com/in/marwa-s-khalil/) 
+
+<img width="1681" height="947" alt="Image" src="https://github.com/user-attachments/assets/f051707d-495e-45c5-80fd-bfb9d17efab0" />
 
 We complement each other’s skills, cover gaps, and push each other to grow 🚀 
 
